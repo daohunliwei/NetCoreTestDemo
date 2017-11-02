@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 
-namespace ASPNET_Core_1_0.Models.ManageViewModels
+namespace Loongdream.WebSite.Models.ManageViewModels
 {
     public class ManageLoginsViewModel
     {

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace ASPNET_Core_1_0
+namespace Loongdream.WebSite
 {
     public static  class HtmlHelpers
     {

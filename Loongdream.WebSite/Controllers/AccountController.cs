@@ -8,11 +8,11 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
-using ASPNET_Core_1_0.Models;
-using ASPNET_Core_1_0.Models.AccountViewModels;
-using ASPNET_Core_1_0.Services;
+using Loongdream.WebSite.Models;
+using Loongdream.WebSite.Models.AccountViewModels;
+using Loongdream.WebSite.Services;
 
-namespace ASPNET_Core_1_0.Controllers
+namespace Loongdream.WebSite.Controllers
 {
     [Authorize]
     public class AccountController : Controller

@@ -5,12 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization; 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using ASPNET_Core_1_0.Models;
-using ASPNET_Core_1_0.Models.ManageViewModels;
-using ASPNET_Core_1_0.Services; 
+using Loongdream.WebSite.Models;
+using Loongdream.WebSite.Models.ManageViewModels;
+using Loongdream.WebSite.Services; 
 using Microsoft.AspNetCore.Identity;
 
-namespace ASPNET_Core_1_0.Controllers
+namespace Loongdream.WebSite.Controllers
 {
     [Authorize]
     public class ManageController : Controller

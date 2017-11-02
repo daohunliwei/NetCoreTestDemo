@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace ASPNET_Core_1_0.Models.AccountViewModels
+namespace Loongdream.WebSite.Models.AccountViewModels
 {
     public class SendCodeViewModel
     {

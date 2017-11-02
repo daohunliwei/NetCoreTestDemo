@@ -9,12 +9,12 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using ASPNET_Core_1_0.Data;
-using ASPNET_Core_1_0.Models;
-using ASPNET_Core_1_0.Services;
+using Loongdream.WebSite.Data;
+using Loongdream.WebSite.Models;
+using Loongdream.WebSite.Services;
 using Microsoft.AspNetCore.Identity;
 
-namespace ASPNET_Core_1_0
+namespace Loongdream.WebSite
 {
     public class Startup
     {

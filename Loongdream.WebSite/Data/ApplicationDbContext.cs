@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using ASPNET_Core_1_0.Models;
+using Loongdream.WebSite.Models;
 
-namespace ASPNET_Core_1_0.Data
+namespace Loongdream.WebSite.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {

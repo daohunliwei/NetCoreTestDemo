@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ASPNET_Core_1_0
+namespace Loongdream.WebSite
 {
     public class Program
     {
