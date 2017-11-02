@@ -7,7 +7,6 @@
     <OutputType>Exe</OutputType>
     <PackageId>Loongdream.WebSite</PackageId>
     <UserSecretsId>aspnet-Loongdream-d45dd8d2-a9c7-41e0-8bdb-cd440166156a</UserSecretsId>
-    <PackageTargetFallback>$(PackageTargetFallback);dotnet5.6;portable-net45+win8</PackageTargetFallback>
     <TypeScriptToolsVersion>Latest</TypeScriptToolsVersion>
   </PropertyGroup>
 
